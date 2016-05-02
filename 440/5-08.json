@@ -1,0 +1,66 @@
+{
+    "aliquot": 8, 
+    "analysis_type": "unknown", 
+    "collection_version": "0.1:0.1", 
+    "comment": "J:8", 
+    "commit": "5301f33698167732d542571f8766161e561a32fe", 
+    "conditionals": [], 
+    "detectors": {
+        "AX": {
+            "deflection": 0, 
+            "gain": 0
+        }, 
+        "H1": {
+            "deflection": 0, 
+            "gain": 0
+        }, 
+        "H2": {
+            "deflection": 0, 
+            "gain": 0
+        }, 
+        "L1": {
+            "deflection": 0, 
+            "gain": 0
+        }, 
+        "L2(CDD)": {
+            "deflection": 0, 
+            "gain": 0
+        }
+    }, 
+    "extraction": "felix_diodeBopen.py", 
+    "identifier": "4405", 
+    "increment": null, 
+    "intensity_scalar": 0.0, 
+    "irradiation": "NM-277", 
+    "irradiation_level": "J", 
+    "irradiation_position": 8, 
+    "isotopes": {
+        "Ar36": {
+            "detector": "L2(CDD)"
+        }, 
+        "Ar37": {
+            "detector": "L1"
+        }, 
+        "Ar38": {
+            "detector": "AX"
+        }, 
+        "Ar39": {
+            "detector": "H1"
+        }, 
+        "Ar40": {
+            "detector": "H2"
+        }
+    }, 
+    "mass_spectrometer": "Felix", 
+    "material": "CaF2", 
+    "measurement": "felix_analysis400_120.py", 
+    "project": "correction factors", 
+    "queue_conditionals_name": "", 
+    "repository_identifier": "CorrectionFactors", 
+    "sample": "CaF2", 
+    "spec_sha": "f5bf3da4c0acf4a6eb7e30b93900b20ca090f3ba", 
+    "timestamp": "2016-04-20T14:54:18.867673", 
+    "tripped_conditional": null, 
+    "username": "MHeizler", 
+    "uuid": "f42b4374-8819-4785-a83c-5c38b09e023c"
+}
