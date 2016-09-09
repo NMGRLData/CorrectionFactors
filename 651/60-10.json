@@ -1,0 +1,66 @@
+{
+    "aliquot": 10, 
+    "analysis_type": "unknown", 
+    "collection_version": "0.1:0.1", 
+    "comment": "J:8 Kglass", 
+    "commit": "9cb3607b1c739bea53d45415194a7a5bffda9194", 
+    "conditionals": null, 
+    "detectors": {
+        "AX": {
+            "deflection": 0, 
+            "gain": 0
+        }, 
+        "H1": {
+            "deflection": 0, 
+            "gain": 0
+        }, 
+        "H2": {
+            "deflection": 0, 
+            "gain": 0
+        }, 
+        "L1": {
+            "deflection": 0, 
+            "gain": 0
+        }, 
+        "L2(CDD)": {
+            "deflection": 0, 
+            "gain": 0
+        }
+    }, 
+    "extraction": "felix_diode.py", 
+    "identifier": "65160", 
+    "increment": null, 
+    "intensity_scalar": 0.0, 
+    "irradiation": "NM-284", 
+    "irradiation_level": "J", 
+    "irradiation_position": 8, 
+    "isotopes": {
+        "Ar36": {
+            "detector": "L2(CDD)"
+        }, 
+        "Ar37": {
+            "detector": "L1"
+        }, 
+        "Ar38": {
+            "detector": "AX"
+        }, 
+        "Ar39": {
+            "detector": "H1"
+        }, 
+        "Ar40": {
+            "detector": "H2"
+        }
+    }, 
+    "mass_spectrometer": "Felix", 
+    "material": "K-glass", 
+    "measurement": "felix_analysis400_120.py", 
+    "project": "CorrectionFactors", 
+    "queue_conditionals_name": "", 
+    "repository_identifier": "CorrectionFactors", 
+    "sample": "K-glass", 
+    "spec_sha": "f5bf3da4c0acf4a6eb7e30b93900b20ca090f3ba", 
+    "timestamp": "2016-09-09T11:49:19.300982", 
+    "tripped_conditional": null, 
+    "username": "root", 
+    "uuid": "3895fe70-73a3-422c-9f19-d9fb61c9b308"
+}
