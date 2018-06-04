@@ -1,0 +1,29 @@
+{
+    "beam_diameter": "3.0", 
+    "cleanup_duration": 60.0, 
+    "commit": "53671a448789cca044d6f981e1a82fb85eeb06a3", 
+    "extract_device": "Fusions Diode", 
+    "extract_duration": 40.0, 
+    "extract_units": "watts", 
+    "extract_value": 5.0, 
+    "grain_polygon_blob": [], 
+    "measured_response": "YicsK1x4YjZOXHgwMFx4MDBceDAwXHgwMFx4MDBceGM4XHhjNTpceDAwXHgwMFx4ZmFEd0xceDAwQFx4MDBceDAwXHhmYURceGQwVFx4ODBAXHgwMFx4MDBceGZhRFx4MTJcXFx4YzBAXHgwMFx4MDBceGZhRHg+XHgwMEFceDAwXHgwMFx4ZmFEXHg4MFEgQVx4MDBceDAwXHhmYURceGIxUUBBXHgwMFx4MDBceGZhRFx4Y2ZNYEFceDAwXHgwMFx4ZmFEbiZceDgwQVx4MDBceDAwXHhmYURceGIzLFx4OTBBXHgwMFx4MDBceGZhRCstXHhhMEFceDAwXHgwMFx4ZmFEejhceGIwQVx4MDBceDAwXHhmYURqP1x4YzBBXHgwMFx4MDBceGZhRFx4ODY9XHhkMEFceDAwXHgwMFx4ZmFEdj9ceGUwQVx4MDBceDAwXHhmYURceDlhPVx4ZjBBXHgwMFx4MDBceGZhRFx4ZDRceDFkXHgwMEJceDAwXHgwMFx4ZmFEXHhiNlx4MWRceDA4Qlx4MDBceDAwXHhmYURceDAwXHgxZFx4MTBCXHgwMFx4MDBceGZhRGNceDFjXHgxOEJceDAwXHgwMFx4ZmFEXHg4NFx4MWIgQlx4MDBceDAwXHhmYUQn", 
+    "pattern": "", 
+    "positions": [
+        {
+            "is_degas": false, 
+            "position": "", 
+            "x": null, 
+            "y": null, 
+            "z": null
+        }
+    ], 
+    "ramp_duration": 0.0, 
+    "ramp_rate": 0.0, 
+    "requested_output": "YicsK1x4YjZOXHgwMFx4MDBceDAwXHgwMFx4MDBceGM4XHhjNTpceGZhfVx4ODlBd0xceDAwQFx4MDBceDAwXHgwMFx4MDBceGQwVFx4ODBAXHhiZVx4MTlceGI5QVx4MTJcXFx4YzBAXHhiZVx4MTlceGI5QXg+XHgwMEFceGJlXHgxOVx4YjlBXHg4MFEgQVx4YmVceDE5XHhiOUFceGIxUUBBXHhiZVx4MTlceGI5QVx4Y2ZNYEFceGJlXHgxOVx4YjlBbiZceDgwQVx4YmVceDE5XHhiOUFceGIzLFx4OTBBXHhiZVx4MTlceGI5QSstXHhhMEFceGJlXHgxOVx4YjlBejhceGIwQVx4YmVceDE5XHhiOUFqP1x4YzBBXHhiZVx4MTlceGI5QVx4ODY9XHhkMEFceGJlXHgxOVx4YjlBdj9ceGUwQVx4YmVceDE5XHhiOUFceDlhPVx4ZjBBXHhiZVx4MTlceGI5QVx4ZDRceDFkXHgwMEJceGJlXHgxOVx4YjlBXHhiNlx4MWRceDA4Qlx4YmVceDE5XHhiOUFceDAwXHgxZFx4MTBCXHhiZVx4MTlceGI5QWNceDFjXHgxOEJceGJlXHgxOVx4YjlBXHg4NFx4MWIgQlx4YmVceDE5XHhiOUEn", 
+    "setpoint_stream": "", 
+    "snapshots": [], 
+    "tray": "10-hole", 
+    "videos": [], 
+    "weight": 113.5
+}
