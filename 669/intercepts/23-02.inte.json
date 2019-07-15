@@ -1,58 +1,132 @@
 {
     "Ar36": {
-        "error": 0.006925649163387197,
+        "error": 0.0033476197029944227,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": true,
             "iterations": 1,
-            "std_devs": 2
+            "std_devs": 2,
+            "use_iqr_filtering": false,
+            "use_standard_deviation_filtering": false
         },
-        "fit": "Parabolic",
-        "value": 2.2714504506497732
+        "fit": "Linear",
+        "fn": 128,
+        "include_baseline_error": false,
+        "n": 133,
+        "outlier_excluded": [
+            107,
+            68,
+            101,
+            86,
+            108
+        ],
+        "reviewed": true,
+        "user_excluded": [],
+        "value": 2.2768869506476563
     },
     "Ar37": {
-        "error": 0.028836974611328184,
+        "error": 0.028836861703144947,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": true,
             "iterations": 1,
-            "std_devs": 2
+            "std_devs": 2,
+            "use_iqr_filtering": false,
+            "use_standard_deviation_filtering": false
         },
-        "fit": "linear",
-        "value": 229.3573938342111
+        "fit": "Linear",
+        "fn": 128,
+        "include_baseline_error": false,
+        "n": 133,
+        "outlier_excluded": [
+            76,
+            12,
+            20,
+            30,
+            31
+        ],
+        "reviewed": true,
+        "user_excluded": [],
+        "value": 229.35739625714115
     },
     "Ar38": {
-        "error": 0.004383443877237928,
+        "error": 0.004383443303862123,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": true,
             "iterations": 1,
-            "std_devs": 2
+            "std_devs": 2,
+            "use_iqr_filtering": false,
+            "use_standard_deviation_filtering": false
         },
-        "fit": "linear",
-        "value": 0.5851078649907219
+        "fit": "Linear",
+        "fn": 128,
+        "include_baseline_error": false,
+        "n": 133,
+        "outlier_excluded": [
+            112,
+            83,
+            85,
+            30,
+            102
+        ],
+        "reviewed": true,
+        "user_excluded": [],
+        "value": 0.5851078677175554
     },
     "Ar39": {
-        "error": 0.023844727898229938,
+        "error": 0.011568923196579659,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": true,
             "iterations": 1,
-            "std_devs": 2
+            "std_devs": 2,
+            "use_iqr_filtering": false,
+            "use_standard_deviation_filtering": false
         },
-        "fit": "Parabolic",
-        "value": 5.277390185937577
+        "fit": "Linear",
+        "fn": 128,
+        "include_baseline_error": false,
+        "n": 133,
+        "outlier_excluded": [
+            57,
+            50,
+            122,
+            13,
+            54
+        ],
+        "reviewed": true,
+        "user_excluded": [],
+        "value": 5.264039504995893
     },
     "Ar40": {
-        "error": 0.0311408924662726,
+        "error": 0.016614702001690455,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": true,
             "iterations": 1,
-            "std_devs": 2
+            "std_devs": 2,
+            "use_iqr_filtering": false,
+            "use_standard_deviation_filtering": false
         },
-        "fit": "Parabolic",
-        "value": 60.348135508185635
+        "fit": "Linear",
+        "fn": 124,
+        "include_baseline_error": false,
+        "n": 133,
+        "outlier_excluded": [
+            2,
+            3,
+            4,
+            131,
+            71,
+            72,
+            74,
+            110,
+            59
+        ],
+        "reviewed": true,
+        "user_excluded": [],
+        "value": 60.56755050928872
     },
     "Ar41": {
         "error": 0.004451149565101302,
