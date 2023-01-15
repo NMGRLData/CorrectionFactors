@@ -1,0 +1,39 @@
+{
+    "beam_diameter": "1.2",
+    "cleanup_duration": 30.0,
+    "commit": "5d523e081bfabfa26a61bc835a8467f793dd5401",
+    "cryo_temperature": 0.0,
+    "extract_device": "Fusions Diode",
+    "extract_duration": 60.0,
+    "extract_units": "watts",
+    "extract_value": 8.0,
+    "extraction_context": {},
+    "grain_polygons": [],
+    "light_value": 0.0,
+    "load_holder": "9-hole",
+    "load_name": "D0144",
+    "measured_response": "m4jHTgAAAAAEiaM/AAD6RPzdUUAAAPpE6vSoQAAA+kTILulAAAD6RMGcFEEAAPpECZk0QQAA+kT6pFRBAAD6RD6mdEEAAPpEV1OKQQAA+kT1U5pBAAD6RL5ZqkEAAPpExli6QQAA+kREW8pBAAD6RJNc2kEAAPpE5l3qQQAA+kQza/pBAAD6RK00BUIAAPpEATkNQgAA+kQFOBVCAAD6RKg6HUIAAPpEOzwlQgAA+kRUOy1CAAD6RGU6NUIAAPpEhjk9QgAA+kRuPEVCAAD6RLhATUIAAPpELEBVQgAA+kQrQF1CAAD6RGtGZUIAAPpEKEdtQgAA+kRiSHVCAAD6RGFHfUIAAPpEDKSCQgAA+kSSo4ZCAAD6RMGjikIAAPpE4aOOQgAA+kRso5JCAAD6RPKilkIAAPpEf6OaQgAA+kSKo55CAAD6RH6jokIAAPpEjKSmQgAA+kRbpKpCAAD6RFKlrkIAAPpEwsOyQgAA+kRew7ZCAAD6RLfEukIAAPpEP8S+QgAA+kQdxMJCAAD6RKvDxkIAAPpEscjKQgAA+kTMyM5CAAD6RFjI0kIAAPpEicrWQgAA+kQTytpCAAD6RInL3kIAAPpEE8viQgAA+kQUz+ZCAAD6RKHO6kIAAPpEh87uQgAA+kQH0fJCAAD6RA==",
+    "pattern": "",
+    "pipette_counts": [],
+    "positions": [
+        {
+            "is_degas": false,
+            "position": 8,
+            "x": 0.0,
+            "y": -7.62,
+            "z": 10.0
+        }
+    ],
+    "post_cleanup_duration": 0.0,
+    "pre_cleanup_duration": 0.0,
+    "ramp_duration": 10.0,
+    "ramp_rate": 0.0,
+    "requested_output": "m4jHTgAAAAAEiaM/g3sUQvzdUUAAAAAA6vSoQAAAAADILulAAAAAAMGcFEEAAAAACZk0QQAAAAD6pFRBAAAAAD6mdEFoP5BBV1OKQaRRoEH1U5pBZbyvQb5ZqkEbor5Bxli6QSYdzUFEW8pBYTnUQZNc2kFhOdRB5l3qQWE51EEza/pBYTnUQa00BUJhOdRBATkNQmE51EEFOBVCYTnUQag6HUJhOdRBOzwlQmE51EFUOy1CYTnUQWU6NUJhOdRBhjk9QmE51EFuPEVCYTnUQbhATUJhOdRBLEBVQmE51EErQF1CYTnUQWtGZUJhOdRBKEdtQmE51EFiSHVCYTnUQWFHfUJhOdRBDKSCQmE51EGSo4ZCYTnUQcGjikJhOdRB4aOOQmE51EFso5JCYTnUQfKilkJhOdRBf6OaQmE51EGKo55CYTnUQX6jokJhOdRBjKSmQmE51EFbpKpCYTnUQVKlrkJhOdRBwsOyQmE51EFew7ZCYTnUQbfEukJhOdRBP8S+QmE51EEdxMJCYTnUQavDxkJhOdRBscjKQmE51EHMyM5CYTnUQVjI0kJhOdRBicrWQmE51EETytpCYTnUQYnL3kJhOdRBE8viQmE51EEUz+ZCYTnUQaHO6kJhOdRBh87uQmE51EEH0fJCYTnUQQ==",
+    "setpoint_stream": null,
+    "snapshots": [],
+    "tray": "",
+    "videos": [
+        "SMB://agustin.nmbgmr.nmt.edu/argon/FusionsDiode/D0144/70746-01A-001.avi"
+    ],
+    "weight": 45.3
+}
