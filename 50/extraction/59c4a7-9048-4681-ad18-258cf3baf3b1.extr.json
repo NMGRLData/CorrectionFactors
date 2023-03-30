@@ -1,0 +1,39 @@
+{
+    "beam_diameter": "1.2",
+    "cleanup_duration": 30.0,
+    "commit": "5d523e081bfabfa26a61bc835a8467f793dd5401",
+    "cryo_temperature": 0.0,
+    "extract_device": "Fusions Diode",
+    "extract_duration": 60.0,
+    "extract_units": "watts",
+    "extract_value": 23.0,
+    "extraction_context": {},
+    "grain_polygons": [],
+    "light_value": 0,
+    "load_holder": "9-hole",
+    "load_name": "D0144",
+    "measured_response": "G4vHTgAAAADAP1o+AAD6RPzfDUAAAPpESuiGQAAA+kSeIsdAAAD6RB6wA0EAAPpE7rsjQQAA+kRgvkNBAAD6RLjXY0EAAPpEDvCBQQAA+kSz/ZFBAAD6ROIKokEAAPpE0xiyQQAA+kTjKcJBAAD6RFIo0kEAAPpEmj/iQQAA+kR/S/JBAAD6RFQlAUIAAPpEIisJQgAA+kQqKhFCAAD6ROAqGUIAAPpEMS8hQgAA+kRRMSlCAAD6RGAwMUIAAPpENTg5QgAA+kQ9N0FCAAD6REs2SUIAAPpESzhRQgAA+kTXN1lCAAD6RCE5YUIAAPpEUDtpQgAA+kRZOnFCAAD6RHk9eUIAAPpEIqCAQgAA+kQ3oIRCAAD6REagiEIAAPpEcKCMQgAA+kSZoJBCAAD6RMeplEIAAPpEpquYQgAA+kRMq5xCAAD6RMCsoEIAAPpE5qykQgAA+kRzrKhCAAD6RPWrrEIAAPpEw62wQgAA+kRRrbRCAAD6RBituEIAAPpEmqy8QgAA+kT7rMBCAAD6RIusxEIAAPpEEK7IQgAA+kRorsxCAAD6RCWv0EIAAPpE4q7UQgAA+kTkrthCAAD6RH2u3EIAAPpEAK7gQgAA+kQ=",
+    "pattern": "",
+    "pipette_counts": [],
+    "positions": [
+        {
+            "is_degas": false,
+            "position": 9,
+            "x": 7.62,
+            "y": -7.62,
+            "z": 10.0
+        }
+    ],
+    "post_cleanup_duration": 0.0,
+    "pre_cleanup_duration": 0.0,
+    "ramp_duration": 10.0,
+    "ramp_rate": 0.0,
+    "requested_output": "G4vHTgAAAADAP1o+tVUQQvzfDUAAAAAASuiGQAAAAACeIsdAAAAAAB6wA0EAAAAA7rsjQdJVn0FgvkNBLm3KQbjXY0GwjfJBDvCBQaqYDEKz/ZFB964fQuIKokG4RylC0xiyQbhHKULjKcJBuEcpQlIo0kG4RylCmj/iQbhHKUJ/S/JBuEcpQlQlAUK4RylCIisJQrhHKUIqKhFCuEcpQuAqGUK4RylCMS8hQrhHKUJRMSlCuEcpQmAwMUK4RylCNTg5QrhHKUI9N0FCuEcpQks2SUK4RylCSzhRQrhHKULXN1lCuEcpQiE5YUK4RylCUDtpQrhHKUJZOnFCuEcpQnk9eUK4RylCIqCAQrhHKUI3oIRCuEcpQkagiEK4RylCcKCMQrhHKUKZoJBCuEcpQseplEK4RylCpquYQrhHKUJMq5xCuEcpQsCsoEK4RylC5qykQrhHKUJzrKhCuEcpQvWrrEK4RylCw62wQrhHKUJRrbRCuEcpQhituEK4RylCmqy8QrhHKUL7rMBCuEcpQousxEK4RylCEK7IQrhHKUJorsxCuEcpQiWv0EK4RylC4q7UQrhHKULkrthCuEcpQn2u3EK4RylCAK7gQrhHKUI=",
+    "setpoint_stream": null,
+    "snapshots": [],
+    "tray": "9-hole",
+    "videos": [
+        "SMB://agustin.nmbgmr.nmt.edu/argon/FusionsDiode/D0144/70746-02B-001.avi"
+    ],
+    "weight": 45.3
+}
