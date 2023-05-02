@@ -24,9 +24,20 @@
         "value": 1.0
     },
     "L2(CDD)": {
-        "error": 1e-20,
-        "fit": "default",
-        "references": [],
-        "value": 1.0
+        "coefficients": [
+            9e-10,
+            -1e-05,
+            1.0154
+        ],
+        "error": 5.0155665776668e-07,
+        "fit": "bulk_edit",
+        "reference_data": null,
+        "reference_detector": "L2(CDD)",
+        "references": "",
+        "reviewed": true,
+        "scaling_value": 61.572422045626716,
+        "standard_ratio": null,
+        "value": 1.0147876878263846,
+        "variable": "Ar40"
     }
 }
