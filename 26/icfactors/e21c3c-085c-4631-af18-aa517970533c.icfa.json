@@ -88,21 +88,14 @@
         "value": 1.0006637941300804
     },
     "H2": {
-        "coefficients": [
-            9e-10,
-            -1e-05,
-            1.0154
-        ],
-        "error": 4.640529896222841e-07,
+        "error": 0.0,
         "fit": "bulk_edit",
         "reference_data": null,
         "reference_detector": "H2",
         "references": "",
         "reviewed": true,
-        "scaling_value": 172.74582898454622,
         "standard_ratio": null,
-        "value": 1.013699398719443,
-        "variable": "Ar40"
+        "value": 1.0
     },
     "L1": {
         "error": 1e-20,
