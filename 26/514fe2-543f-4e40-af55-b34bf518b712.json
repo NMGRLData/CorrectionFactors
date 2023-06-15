@@ -1,6 +1,6 @@
 {
     "acquisition_software": "pychron 20.1.1",
-    "aliquot": 22,
+    "aliquot": 2,
     "analysis_type": "unknown",
     "analyst_name": "Julia Ricci",
     "arar_mapping": {
@@ -96,12 +96,12 @@
     "extraction": "",
     "grainsize": "",
     "hops": "",
-    "identifier": "70826",
+    "identifier": "70984",
     "increment": null,
     "instrument_name": "",
     "intensity_scalar": 0.0,
-    "irradiation": "NM-331",
-    "irradiation_level": "J",
+    "irradiation": "NM-333",
+    "irradiation_level": "D",
     "irradiation_position": 6,
     "isotopes": {
         "Ar36": {
