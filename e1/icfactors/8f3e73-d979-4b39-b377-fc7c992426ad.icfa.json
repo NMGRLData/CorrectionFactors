@@ -1,9 +1,29 @@
 {
     "AX": {
-        "error": 1e-20,
-        "fit": "default",
-        "references": [],
-        "value": 1.0
+        "error": 0.0003295408003033397,
+        "fit": "Weighted Mean",
+        "reference_data": {
+            "es": [
+                0.0003295408003033397
+            ],
+            "vs": [
+                1.0002428374744783
+            ],
+            "xs": [
+                1686926884.0
+            ]
+        },
+        "reference_detector": "rad40",
+        "references": [
+            {
+                "exclude": "ok",
+                "record_id": "c-03-J-6560",
+                "uuid": "a53702d8-1fcd-4a7a-a066-332617dcf2a1"
+            }
+        ],
+        "reviewed": true,
+        "standard_ratio": 6.600975,
+        "value": 1.0002428374744783
     },
     "CDD": {
         "error": 0.0016886307938937311,
