@@ -1,6 +1,6 @@
 {
     "Ar36": {
-        "error": 0.0003441122953805419,
+        "error": 0.00018926142834517354,
         "error_type": "",
         "fit": "Bracketing Interpolate",
         "references": [
@@ -151,12 +151,12 @@
             }
         ],
         "reviewed": true,
-        "value": 0.014632967017798388
+        "value": 0.014643345659859692
     },
     "Ar37": {
-        "error": 0.006894373386031588,
+        "error": 0.004196260967327508,
         "error_type": "",
-        "fit": "Bracketing Interpolate",
+        "fit": "Weighted Mean_SE but if MSWD>1 use SE * sqrt(MSWD)",
         "references": [
             {
                 "exclude": "ok",
@@ -305,12 +305,12 @@
             }
         ],
         "reviewed": true,
-        "value": -0.007669811198090925
+        "value": 0.008338609938055758
     },
     "Ar38": {
-        "error": 0.0001221861231153154,
+        "error": 0.0001412578707229019,
         "error_type": "",
-        "fit": "Bracketing Interpolate",
+        "fit": "Weighted Mean_SE but if MSWD>1 use SE * sqrt(MSWD)",
         "references": [
             {
                 "exclude": "ok",
@@ -459,12 +459,12 @@
             }
         ],
         "reviewed": true,
-        "value": 0.004694059236500309
+        "value": 0.003442145500293369
     },
     "Ar39": {
-        "error": 0.013797753420720107,
+        "error": 0.004062174039582874,
         "error_type": "",
-        "fit": "Bracketing Interpolate",
+        "fit": "Weighted Mean_SE but if MSWD>1 use SE * sqrt(MSWD)",
         "references": [
             {
                 "exclude": "ok",
@@ -613,10 +613,10 @@
             }
         ],
         "reviewed": true,
-        "value": -0.028791096345701112
+        "value": -0.0008886427909119408
     },
     "Ar40": {
-        "error": 0.029290016017101107,
+        "error": 0.02929001601709885,
         "error_type": "",
         "fit": "Bracketing Interpolate",
         "references": [
@@ -767,6 +767,6 @@
             }
         ],
         "reviewed": true,
-        "value": 4.271411655641316
+        "value": 4.271411655641343
     }
 }
