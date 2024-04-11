@@ -88,9 +88,13 @@
         "value": 1.0006637941300804
     },
     "H2": {
-        "error": 1e-20,
-        "fit": "default",
-        "references": [],
+        "error": 0.0,
+        "fit": "bulk_edit",
+        "reference_data": null,
+        "reference_detector": "H2",
+        "references": "",
+        "reviewed": true,
+        "standard_ratio": null,
         "value": 1.0
     },
     "L1": {
