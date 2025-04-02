@@ -1,6 +1,6 @@
 {
     "Ar36": {
-        "error": 0.0001037232928244882,
+        "error": 6.135054641464065e-05,
         "error_type": "",
         "fit": "Bracketing Interpolate",
         "references": [
@@ -105,7 +105,7 @@
                 "uuid": "4467ab97-90d1-4e64-bc03-152b921df710"
             },
             {
-                "exclude": "ok",
+                "exclude": "omit",
                 "record_id": "bu-FD-F-4622",
                 "uuid": "94d18a60-f175-4d6b-83b4-dee98289c8c0"
             },
@@ -165,7 +165,7 @@
                 "uuid": "b49d76cd-7039-4530-92ec-9d273a865fca"
             },
             {
-                "exclude": "ok",
+                "exclude": "omit",
                 "record_id": "bu-FD-F-4634",
                 "uuid": "e356a1ed-93dc-444b-9965-f93544b4cfdf"
             },
@@ -291,10 +291,10 @@
             }
         ],
         "reviewed": true,
-        "value": 0.0010715384018535044
+        "value": 0.0008906357743251872
     },
     "Ar37": {
-        "error": 0.00143341197267168,
+        "error": 0.0013702386146276775,
         "error_type": "",
         "fit": "Weighted Mean_SE but if MSWD>1 use SE * sqrt(MSWD)",
         "references": [
@@ -399,7 +399,7 @@
                 "uuid": "4467ab97-90d1-4e64-bc03-152b921df710"
             },
             {
-                "exclude": "ok",
+                "exclude": "omit",
                 "record_id": "bu-FD-F-4622",
                 "uuid": "94d18a60-f175-4d6b-83b4-dee98289c8c0"
             },
@@ -459,7 +459,7 @@
                 "uuid": "b49d76cd-7039-4530-92ec-9d273a865fca"
             },
             {
-                "exclude": "ok",
+                "exclude": "omit",
                 "record_id": "bu-FD-F-4634",
                 "uuid": "e356a1ed-93dc-444b-9965-f93544b4cfdf"
             },
@@ -585,10 +585,10 @@
             }
         ],
         "reviewed": true,
-        "value": 0.0013307609594579864
+        "value": 0.0008865969373028088
     },
     "Ar38": {
-        "error": 7.324770918077588e-05,
+        "error": 4.984349564278945e-05,
         "error_type": "",
         "fit": "Bracketing Interpolate",
         "references": [
@@ -693,7 +693,7 @@
                 "uuid": "4467ab97-90d1-4e64-bc03-152b921df710"
             },
             {
-                "exclude": "ok",
+                "exclude": "omit",
                 "record_id": "bu-FD-F-4622",
                 "uuid": "94d18a60-f175-4d6b-83b4-dee98289c8c0"
             },
@@ -753,7 +753,7 @@
                 "uuid": "b49d76cd-7039-4530-92ec-9d273a865fca"
             },
             {
-                "exclude": "ok",
+                "exclude": "omit",
                 "record_id": "bu-FD-F-4634",
                 "uuid": "e356a1ed-93dc-444b-9965-f93544b4cfdf"
             },
@@ -879,10 +879,10 @@
             }
         ],
         "reviewed": true,
-        "value": 0.0006843549495764064
+        "value": 0.0005722833024054373
     },
     "Ar39": {
-        "error": 0.0015180000713372976,
+        "error": 0.0016386720881275102,
         "error_type": "",
         "fit": "Weighted Mean_SE but if MSWD>1 use SE * sqrt(MSWD)",
         "references": [
@@ -987,7 +987,7 @@
                 "uuid": "4467ab97-90d1-4e64-bc03-152b921df710"
             },
             {
-                "exclude": "ok",
+                "exclude": "omit",
                 "record_id": "bu-FD-F-4622",
                 "uuid": "94d18a60-f175-4d6b-83b4-dee98289c8c0"
             },
@@ -1047,7 +1047,7 @@
                 "uuid": "b49d76cd-7039-4530-92ec-9d273a865fca"
             },
             {
-                "exclude": "ok",
+                "exclude": "omit",
                 "record_id": "bu-FD-F-4634",
                 "uuid": "e356a1ed-93dc-444b-9965-f93544b4cfdf"
             },
@@ -1173,10 +1173,10 @@
             }
         ],
         "reviewed": true,
-        "value": 0.005180234005657774
+        "value": 0.0024011059837610927
     },
     "Ar40": {
-        "error": 0.048216080836075016,
+        "error": 0.017715269561801954,
         "error_type": "",
         "fit": "Bracketing Interpolate",
         "references": [
@@ -1281,7 +1281,7 @@
                 "uuid": "4467ab97-90d1-4e64-bc03-152b921df710"
             },
             {
-                "exclude": "ok",
+                "exclude": "omit",
                 "record_id": "bu-FD-F-4622",
                 "uuid": "94d18a60-f175-4d6b-83b4-dee98289c8c0"
             },
@@ -1341,7 +1341,7 @@
                 "uuid": "b49d76cd-7039-4530-92ec-9d273a865fca"
             },
             {
-                "exclude": "ok",
+                "exclude": "omit",
                 "record_id": "bu-FD-F-4634",
                 "uuid": "e356a1ed-93dc-444b-9965-f93544b4cfdf"
             },
@@ -1467,6 +1467,6 @@
             }
         ],
         "reviewed": true,
-        "value": 0.3134632210013527
+        "value": 0.3073978066851938
     }
 }
