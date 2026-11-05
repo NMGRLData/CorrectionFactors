@@ -1,0 +1,35 @@
+{
+    "beam_diameter": "0.5",
+    "cleanup_duration": 15.0,
+    "commit": "1530ba1048b2d4f6d9b41b23664451c52df2697a",
+    "cryo_temperature": 0.0,
+    "extract_device": "Fusions CO2",
+    "extract_duration": 30.0,
+    "extract_units": "watts",
+    "extract_value": 0.25,
+    "extraction_context": {},
+    "grain_polygons": [],
+    "light_value": 0.0,
+    "load_holder": "18hole",
+    "load_name": "D0263",
+    "pattern": "",
+    "pipette_counts": [],
+    "positions": [
+        {
+            "is_degas": false,
+            "position": 781,
+            "x": 0.0,
+            "y": -21.0,
+            "z": 22.55
+        }
+    ],
+    "post_cleanup_duration": 0.0,
+    "pre_cleanup_duration": 0.0,
+    "ramp_duration": 0.0,
+    "ramp_rate": 0.0,
+    "snapshots": [],
+    "timestamp": "2026-11-05T12:44:24.822847",
+    "tray": "18hole",
+    "videos": [],
+    "weight": 0.0
+}
